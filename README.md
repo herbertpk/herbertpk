@@ -1,6 +1,6 @@
 ## Hi There, I'm [Herbert Rocha](https://portifolio.hmhomelab.site)
 
-I study computer science at the [Federal University of Paraíba](https://www.ufpb.br/), i  
+I study computer science at the [Federal University of Paraíba](https://www.ufpb.br/), devops enginner with 
 
 
 ----
